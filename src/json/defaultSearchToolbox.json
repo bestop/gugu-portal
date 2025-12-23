@@ -168,8 +168,8 @@
         "src": "https://www.cuppaso.fun/search?type=all&searchType=0&page=1&keyword={q}"
       },
       {
-        "name": "YaPan",
-        "src": "https://pan.ccof.cc/search?keyword={q}"
+        "name": "优聚搜",
+        "src": "https://v4.jujuso.com/search?k={q}"
       },
       {
         "name": "猫狸",

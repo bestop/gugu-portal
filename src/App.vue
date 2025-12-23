@@ -576,7 +576,7 @@ const parse = (dtList, bookmarkList) => {
 
 const cornerMenuClick = (key, openKeys) => {
   if (key === '1') {
-    window.open('https://github.com/huiyadanli/gugu-portal');
+    window.open('https://github.com/bestop/gugu-portal');
   } else if (key === '2') {
     switchSettingsPanel();
   } else {

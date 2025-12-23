@@ -67,8 +67,8 @@
     "collapsed": true,
     "sites": [
       {
-        "name": "茶杯狐",
-        "src": "https://cupfox.app/s/{q}"
+        "name": "BK影视",
+        "src": "http://usseprint.cn/app/index.html?name={q}&id=200401lnj&token=i69&browser=true"
       },
       {
         "name": "豌豆影视",
@@ -83,8 +83,8 @@
         "src": "https://www.hdmoli.com/search.php?searchword={q}"
       },
       {
-        "name": "ZzzFun",
-        "src": "http://www.zzzfun.com/vod_search.html?wd={q}"
+        "name": "茶杯狐",
+        "src": "https://cupfox.app/s/{q}"
       }
     ]
   },
@@ -152,8 +152,8 @@
     "collapsed": true,
     "sites": [
       {
-        "name": "橘子盘搜",
-        "src": "https://www.nmme.cc/s/1/{q}"
+        "name": "优聚搜",
+        "src": "https://v4.jujuso.com/search?k={q}"
       },
       {
         "name": "来搜一下",
@@ -168,8 +168,8 @@
         "src": "https://www.cuppaso.fun/search?type=all&searchType=0&page=1&keyword={q}"
       },
       {
-        "name": "优聚搜",
-        "src": "https://v4.jujuso.com/search?k={q}"
+        "name": "橘子盘搜",
+        "src": "https://www.nmme.cc/s/1/{q}"
       },
       {
         "name": "猫狸",

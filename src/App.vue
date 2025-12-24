@@ -97,7 +97,7 @@
                   <ul class="search-line-ul">
                     <li class="search-line-li" v-for="site in line.sites">
                       <a class="search-line-li-a cursor-pointer" @click.left="goToSearch(site.src)" @click.middle="goToSearch(site.src)" >
-                        <img class="search-line-li-a-img" :src="'https://github.com/bestop/gugu-portal/blob/main/src/icon.png?raw=true'">
+                        <img class="search-line-li-a-img" :src="'https://hijoe.net/images/2020/icon.png'">
                         <span class="nowrap">{{ site.name }}</span>
                       </a>
                     </li>
@@ -149,7 +149,7 @@
                         <template #item="{element :link, index: j}">
                           <li :class="{'link-li': true, 'link-li-editable':controlEditable}">
                             <div class="link-chip">
-                              <img class="link-chip-image" :src="'https://github.com/bestop/gugu-portal/blob/main/src/icon.png?raw=true'">
+                              <img class="link-chip-image" :src="'https://hijoe.net/images/2020/icon.png'">
                               <a-tooltip :content="link.name" position="tl" mini>
                                 <a class="link-a" :data-url="link.url" @click.left="goToUrl(t, i, j,link.url)"
                                    @click.middle="goToUrl(t, i, j,link.url)">{{ link.name }}</a>
